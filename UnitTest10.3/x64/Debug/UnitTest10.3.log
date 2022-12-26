@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest10.3.cpp
+C:\Student\ChyrunSofialab10.3\ChyrunSofialab10.3\ChyrunSofialab10.3.cpp(72,7): warning C4101: 'type': unreferenced local variable
+     Creating library C:\Student\ChyrunSofialab10.3\x64\Debug\UnitTest10.3.lib and object C:\Student\ChyrunSofialab10.3\x64\Debug\UnitTest10.3.exp
+  UnitTest10.3.vcxproj -> C:\Student\ChyrunSofialab10.3\x64\Debug\UnitTest10.3.dll
